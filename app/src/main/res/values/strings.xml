@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="name">Name</string>
+    <string name="signup">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="Telephone">Telephone</string>
+    <string name="pw">Password</string>
+    <string name="re_pw">Re-type Password</string>
+    <string name="register">REGISTER</string>
+    <string name="cancel">CANCEL</string>
+</resources>
